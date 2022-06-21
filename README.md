@@ -1,7 +1,7 @@
 ## Oiii eu sou a Rafaela Ferreira, criadora de conteúdo de programação e tecnologia!
 
 <div align="center">
-  <a href="https://github.com/Rafaela-erreira">
+  <a href="https://github.com/Rafaela-Ferreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafaela-Ferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaela-Ferreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -23,7 +23,7 @@
 <div>
   <a href = "rafa.1999ferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaela-ferreira-1736b6198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
    
-  ![Snake animation](https://github.com/Rafaela-Ferreira/Rafaela-Ferreira/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Rafaela-Ferreira/Rafaela-Ferreira/blob/output/github-contribution-grid-snake.svg);
+  
 </div>
