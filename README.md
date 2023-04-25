@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaela Ferreira, criadora de conteúdo de programação e tecnologia!
+## Oiii eu sou a Rafaela Ferreira, sou estudante de programação e tecnologia!
 
 <div align="center">
   <a href="https://github.com/Rafaela-Ferreira">
