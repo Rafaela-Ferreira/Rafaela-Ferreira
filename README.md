@@ -16,7 +16,6 @@
     <img align="center" alt="Rafa-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img align="center" alt="Rafa-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" alt="Rafa-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;">
 </div>
   
 ##
